@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m Dharani Inturi
-- 👀 Frontend Developer aspirant.
+- 👋 Hi there, I’m Dharani Intuti.
+- 👀 Aspiring Frontend Developer.
 - 🌱 I’m currently learning Frontend development technologies.
 - 📫 How to reach me dharaniinturi2000@gmail.com
 
